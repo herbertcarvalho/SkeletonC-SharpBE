@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jy78jmlQ3s3U15ZhYzJ83oJ8A7DX6WRHsxNzuKBlLqE=",
+  "Source": "Backend.Erp.Skeleton.Api",
+  "BasePath": "_content/Backend.Erp.Skeleton.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

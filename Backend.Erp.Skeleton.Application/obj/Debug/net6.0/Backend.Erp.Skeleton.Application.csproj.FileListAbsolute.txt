@@ -1,0 +1,15 @@
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\bin\Debug\net6.0\Backend.Erp.Skeleton.Application.deps.json
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\bin\Debug\net6.0\Backend.Erp.Skeleton.Application.dll
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\bin\Debug\net6.0\Backend.Erp.Skeleton.Application.pdb
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\bin\Debug\net6.0\Backend.Erp.Skeleton.Domain.dll
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\bin\Debug\net6.0\Backend.Erp.Skeleton.Domain.pdb
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\obj\Debug\net6.0\Backend.Erp.Skeleton.Application.csproj.AssemblyReference.cache
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\obj\Debug\net6.0\Backend.Erp.Skeleton.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\obj\Debug\net6.0\Backend.Erp.Skeleton.Application.AssemblyInfoInputs.cache
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\obj\Debug\net6.0\Backend.Erp.Skeleton.Application.AssemblyInfo.cs
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\obj\Debug\net6.0\Backend.Erp.Skeleton.Application.csproj.CoreCompileInputs.cache
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\obj\Debug\net6.0\Backend.Erp.Skeleton.Application.csproj.CopyComplete
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\obj\Debug\net6.0\Backend.Erp.Skeleton.Application.dll
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\obj\Debug\net6.0\refint\Backend.Erp.Skeleton.Application.dll
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\obj\Debug\net6.0\Backend.Erp.Skeleton.Application.pdb
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Application\obj\Debug\net6.0\ref\Backend.Erp.Skeleton.Application.dll

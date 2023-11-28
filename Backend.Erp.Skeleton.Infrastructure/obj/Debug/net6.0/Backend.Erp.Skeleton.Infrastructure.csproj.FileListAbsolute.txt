@@ -1,0 +1,17 @@
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\obj\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.csproj.AssemblyReference.cache
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\obj\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\obj\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.AssemblyInfoInputs.cache
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\obj\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.AssemblyInfo.cs
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\obj\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.csproj.CoreCompileInputs.cache
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\bin\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.deps.json
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\bin\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.runtimeconfig.json
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\bin\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.dll
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\bin\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.pdb
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\bin\Debug\net6.0\Backend.Erp.Skeleton.Domain.dll
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\bin\Debug\net6.0\Backend.Erp.Skeleton.Domain.pdb
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\obj\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.csproj.CopyComplete
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\obj\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.dll
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\obj\Debug\net6.0\refint\Backend.Erp.Skeleton.Infrastructure.dll
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\obj\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.pdb
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\obj\Debug\net6.0\Backend.Erp.Skeleton.Infrastructure.genruntimeconfig.cache
+C:\HouseasyProjects\BaseDDDProject\Backend.Erp.Skeleton.Infrastructure\obj\Debug\net6.0\ref\Backend.Erp.Skeleton.Infrastructure.dll
